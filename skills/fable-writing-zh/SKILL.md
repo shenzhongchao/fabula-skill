@@ -33,7 +33,6 @@ description: Use when drafting, revising, continuing, or polishing concept fable
 - 判断这个情节能帮助读者亲近概念，还是会把概念带偏。
 - 做必要的原创转化，不要机械照搬原作；可以保留服务于概念理解的可识别元素。
 
-如果已有 `plan.md`或等价计划书，优先遵守计划里的 story analogy 或 story premise；如果没有计划，就在动笔前自己完成这一步。
 
 
 ## 解释段格式
@@ -64,7 +63,7 @@ description: Use when drafting, revising, continuing, or polishing concept fable
 - 平实、具体、可画出来。优先写人、物、动作、位置、时间和后果。
 - 短句优先，主语清楚。一句话尽量只做一个技术动作或一个叙事动作。
 - 像一个冷静的人在讲故事，不像论文摘要。
-- 温和、有寓言感，但不要幼稚；可以有轻微幽默，但不要让机巧盖过概念。
+- 有寓言感，但不要幼稚；可以有轻微幽默，但不要让机巧盖过概念。
 - 不要用更难想象的句子制造“深刻感”。美感必须服务清楚。
 - 解释段要准确、自然、教学感清楚，不要漂成泛泛百科条目。
 - 不要有AI味

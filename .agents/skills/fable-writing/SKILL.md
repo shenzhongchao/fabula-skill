@@ -34,7 +34,6 @@ Execution order:
 - Judge whether this plot helps readers relate to the concept or distracts from it.
 - Make necessary original transformations; do not mechanically copy the original work. Retain recognizable elements that serve conceptual understanding.
 
-If a `plan.md` or equivalent plan is available, follow its story analogy or story premise. If not, complete this step yourself before writing.
 
 ## Explanation Section Format
 
@@ -64,7 +63,7 @@ Therefore, what this fable is really about: …
 - Plain, concrete, drawable. Prioritize people, objects, actions, locations, time, and consequences.
 - Short sentences preferred, clear subject. Each sentence should ideally perform one technical action or one narrative action.
 - Sound like a calm person telling a story, not like an abstract summary.
-- Gentle, fable-like, but not childish; mild humor is acceptable, but do not let cleverness overshadow the concept.
+- fable-like, but not childish; mild humor is acceptable, but do not let cleverness overshadow the concept.
 - Do not use harder-to-imagine sentences to create a sense of "depth." Beauty must serve clarity.
 - The explanation should be accurate, natural, and pedagogically clear; do not drift into generic encyclopedia entries.
 - No AI aftertaste.
