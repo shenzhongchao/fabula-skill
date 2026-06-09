@@ -40,6 +40,7 @@
 │   └── fable-writing-plan/
 ├── .agents/skills/          # 本地代理可调用的技能镜像（应与 skills/ 保持同步）
 ├── cases/                   # 案例项目目录
+│   ├── science-fable/       # 科学哲学与统计推断寓言书（67章全书）
 │   ├── economics-fable/
 │   └── quantum-fable/
 ├── docs/                    # 可复用说明、规范或参考文档
@@ -71,6 +72,14 @@ cases/<subject>-fable/
 5. 每章完成后调用 `fable-review` 进行评审，根据反馈修改
 
 详细指令请参考各技能目录下的 `SKILL.md` 文件。
+
+## 案例：科学哲学与统计推断寓言书
+
+`cases/science-fable/` 是本项目最完整的案例，将科学哲学（波普尔、库恩、拉卡托斯）与统计推断（频率主义、贝叶斯、似然学派）的 67 个核心概念，改写为可独立阅读又彼此呼应的短篇寓言。全书按五个分册组织，正文不出现学科术语，概念映射放在正文后的讲解段。
+
+- **全书索引**：[`cases/science-fable/drafts/index.md`](cases/science-fable/drafts/index.md) — 含每章故事题目、阅读提示与文件链接
+- **写作计划**：[`cases/science-fable/plan.md`](cases/science-fable/plan.md)
+- **章节草稿**：`cases/science-fable/drafts/volume-01/` ~ `volume-05/` + `supplementary/`
 
 ## 写作原则
 

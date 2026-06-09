@@ -1,6 +1,5 @@
 # 科学哲学与统计推断寓言书 · 全书索引
 
-> 本项目将 `概念图谱.md` 中的科学哲学与统计推断概念，改写成出版级中文寓言书稿。
 > 目标读者：高中高年级至大学低年级通识读者。
 
 ---
@@ -10,111 +9,103 @@
 ### 第一分册：科学为什么需要边界（01-08）
 从三大元问题进入认识论基础。
 
-| 章节 | 文件 | 概念 | 状态 |
-|------|------|------|------|
-| 01 | [volume-01/chapter-01.md](volume-01/chapter-01.md) | 科学划界问题 | 已起草 |
-| 02 | [volume-01/chapter-02.md](volume-01/chapter-02.md) | 知识的增长问题 | 已起草 |
-| 03 | [volume-01/chapter-03.md](volume-01/chapter-03.md) | 统计推断的逻辑问题 | 已起草 |
-| 04 | [volume-01/chapter-04.md](volume-01/chapter-04.md) | 休谟的归纳问题 | 已起草 |
-| 05 | [volume-01/chapter-05.md](volume-01/chapter-05.md) | 逻辑实证主义 | 已起草 |
-| 06 | [volume-01/chapter-06.md](volume-01/chapter-06.md) | 可证实性原则 | 已起草 |
-| 07 | [volume-01/chapter-07.md](volume-01/chapter-07.md) | 理论负载性 | 已起草 |
-| 08 | [volume-01/chapter-08.md](volume-01/chapter-08.md) | 发现的情境 vs 辩护的情境 | 已起草 |
+| 章节 | 题目 | 阅读提示 |
+|------|------|----------|
+| 01 | [三支检测队](volume-01/chapter-01.md) | 好解释不等于可靠；边界来自可被检验的风险。 |
+| 02 | [丢掉坏办法](volume-01/chapter-02.md) | 进步不是累积赞美，而是改错后的替换。 |
+| 03 | [三种问题](volume-01/chapter-03.md) | 数据到结论之间有不同问题，不可混同。 |
+| 04 | [十五年无事故](volume-01/chapter-04.md) | 有限经验不能逻辑推出普遍规律。 |
+| 05 | [走廊里的公告](volume-01/chapter-05.md) | 只承认可证实陈述的吸引力与代价。 |
+| 06 | [寻找合格样品](volume-01/chapter-06.md) | 被好例子支持不等于被严格区分。 |
+| 07 | [同一台报警器](volume-01/chapter-07.md) | 观察受预设框架塑形。 |
+| 08 | [灵感与测试](volume-01/chapter-08.md) | 想到理论与评价理论是两回事。 |
 
 ### 第二分册：让理论冒险（09-16）
 波普尔的可错论、证伪与批判传统。
 
-| 章节 | 文件 | 概念 | 状态 |
-|------|------|------|------|
-| 09 | [volume-02/chapter-09.md](volume-02/chapter-09.md) | 可错论 | 已起草 |
-| 10 | [volume-02/chapter-10.md](volume-02/chapter-10.md) | 可证伪性 | 已起草 |
-| 11 | [volume-02/chapter-11.md](volume-02/chapter-11.md) | 证伪不对称性 | 已起草 |
-| 12 | [volume-02/chapter-12.md](volume-02/chapter-12.md) | 猜想与反驳 | 已起草 |
-| 13 | [volume-02/chapter-13.md](volume-02/chapter-13.md) | 确证 | 已起草 |
-| 14 | [volume-02/chapter-14.md](volume-02/chapter-14.md) | 证伪主义态度 | 已起草 |
-| 15 | [volume-02/chapter-15.md](volume-02/chapter-15.md) | 形而上学框架 | 已起草 |
-| 16 | [volume-02/chapter-16.md](volume-02/chapter-16.md) | 操作性定义 | 已起草 |
+| 章节 | 题目 | 阅读提示 |
+|------|------|----------|
+| 09 | [急诊室的容错栏](volume-02/chapter-09.md) | 任何判断都可能错，制度要容纳纠错。 |
+| 10 | [敢输的合同](volume-02/chapter-10.md) | 真正有内容的判断会排除某些结果。 |
+| 11 | [第十一个阀门](volume-02/chapter-11.md) | 普遍断言难以被证实，却可被反例击倒。 |
+| 12 | [寻找配方的死法](volume-02/chapter-12.md) | 好研究由提出与攻击共同推进。 |
+| 13 | [通过测试之后](volume-02/chapter-13.md) | 通过严峻测试增加信任，但不是证明。 |
+| 14 | [给反对者最好的房间](volume-02/chapter-14.md) | 科学性还取决于共同体是否主动检验。 |
+| 15 | [修机器前的默认](volume-02/chapter-15.md) | 不可直接检验的底层信念会引导研究。 |
+| 16 | [体能好是什么意思](volume-02/chapter-16.md) | 测量程序能固定用法，但测量不等于全部意义。 |
 
 ### 第三分册：科学共同体怎样工作（17-34）
 库恩与拉卡托斯，解释稳定、危机与研究纲领。
 
-| 章节 | 文件 | 概念 | 状态 |
-|------|------|------|------|
-| 17 | [volume-03/chapter-17.md](volume-03/chapter-17.md) | 范式-狭义 | 已起草 |
-| 18 | [volume-03/chapter-18.md](volume-03/chapter-18.md) | 范式-广义 | 已起草 |
-| 19 | [volume-03/chapter-19.md](volume-03/chapter-19.md) | 前科学 | 已起草 |
-| 20 | [volume-03/chapter-20.md](volume-03/chapter-20.md) | 常规科学 | 已起草 |
-| 21 | [volume-03/chapter-21.md](volume-03/chapter-21.md) | 反常 | 已起草 |
-| 22 | [volume-03/chapter-22.md](volume-03/chapter-22.md) | 危机 | 已起草 |
-| 23 | [volume-03/chapter-23.md](volume-03/chapter-23.md) | 科学革命 | 已起草 |
-| 24 | [volume-03/chapter-24.md](volume-03/chapter-24.md) | 不可通约性 | 已起草 |
-| 25 | [volume-03/chapter-25.md](volume-03/chapter-25.md) | 格式塔转换/皈依 | 已起草 |
-| 26 | [volume-03/chapter-26.md](volume-03/chapter-26.md) | 共享评价标准 | 已起草 |
-| 27 | [volume-03/chapter-27.md](volume-03/chapter-27.md) | 相对主义 | 已起草 |
-| 28 | [volume-03/chapter-28.md](volume-03/chapter-28.md) | 研究纲领 | 已起草 |
-| 29 | [volume-03/chapter-29.md](volume-03/chapter-29.md) | 硬核 | 已起草 |
-| 30 | [volume-03/chapter-30.md](volume-03/chapter-30.md) | 保护带 | 已起草 |
-| 31 | [volume-03/chapter-31.md](volume-03/chapter-31.md) | 正面启发法 | 已起草 |
-| 32 | [volume-03/chapter-32.md](volume-03/chapter-32.md) | 进步性纲领 | 已起草 |
-| 33 | [volume-03/chapter-33.md](volume-03/chapter-33.md) | 退化性纲领 | 已起草 |
-| 34 | [volume-03/chapter-34.md](volume-03/chapter-34.md) | 案例法与成文法 | 已起草 |
+| 章节 | 题目 | 阅读提示 |
+|------|------|----------|
+| 17 | [跟着标准病例学习](volume-03/chapter-17.md) | 共同范例训练眼光与判断。 |
+| 18 | [三种规则的比赛](volume-03/chapter-18.md) | 共同体共享的信念、价值和技术定义问题。 |
+| 19 | [还不能比较的实验室](volume-03/chapter-19.md) | 成熟前缺少统一框架，学派争论难收束。 |
+| 20 | [在流程里解题](volume-03/chapter-20.md) | 常规科学是在框架内解题。 |
+| 21 | [被记成误差的小标记](volume-03/chapter-21.md) | 与预期不符的结果会先被局部处理。 |
+| 22 | [流程本身错了吗](volume-03/chapter-22.md) | 反常积累使共同体信心动摇。 |
+| 23 | [轻症变成了优先](volume-03/chapter-23.md) | 新框架取代旧框架，连问题排序也变化。 |
+| 24 | [同一个词，不同的做法](volume-03/chapter-24.md) | 不同框架中的概念不能完全互译。 |
+| 25 | [瑕疵变成了症状](volume-03/chapter-25.md) | 转换让人看见不同结构。 |
+| 26 | [输也知道输在哪里](volume-03/chapter-26.md) | 跨框架仍可有评价标准。 |
+| 27 | [标准不同，事故不听](volume-03/chapter-27.md) | 承认框架差异不等于真理由群体任意决定。 |
+| 28 | [评价一条路线](volume-03/chapter-28.md) | 评价单位可大于单个理论。 |
+| 29 | [不轻易改的那一条](volume-03/chapter-29.md) | 纲领中有暂不放弃的核心。 |
+| 30 | [外围先承受](volume-03/chapter-30.md) | 辅助假设承受检验并可调整。 |
+| 31 | [有方向的试错](volume-03/chapter-31.md) | 纲领内部有指导修改的策略。 |
+| 32 | [提前看到的新故障](volume-03/chapter-32.md) | 能产生新颖预测并部分成功的路线值得继续。 |
+| 33 | [越来越厚的报告](volume-03/chapter-33.md) | 只事后解释而无新预测是退化信号。 |
+| 34 | [条文与旧案](volume-03/chapter-34.md) | 方法论既要原则也要历史案例。 |
 
 ### 第四分册：从数据到决定（35-51）
 概率哲学基础与内曼-皮尔逊检验。
 
-| 章节 | 文件 | 概念 | 状态 |
-|------|------|------|------|
-| 35 | [volume-04/chapter-35.md](volume-04/chapter-35.md) | 概率公理 | 已起草 |
-| 36 | [volume-04/chapter-36.md](volume-04/chapter-36.md) | 主观概率 | 已起草 |
-| 37 | [volume-04/chapter-37.md](volume-04/chapter-37.md) | 客观概率 | 已起草 |
-| 38 | [volume-04/chapter-38.md](volume-04/chapter-38.md) | 长期相对频率 | 已起草 |
-| 39 | [volume-04/chapter-39.md](volume-04/chapter-39.md) | 参考类/集合 | 已起草 |
-| 40 | [volume-04/chapter-40.md](volume-04/chapter-40.md) | 条件概率 P(D\|H) | 已起草 |
-| 41 | [volume-04/chapter-41.md](volume-04/chapter-41.md) | 逆概率问题 P(H\|D) | 已起草 |
-| 42 | [volume-04/chapter-42.md](volume-04/chapter-42.md) | 零假设 H0 | 已起草 |
-| 43 | [volume-04/chapter-43.md](volume-04/chapter-43.md) | 备择假设 H1 | 已起草 |
-| 44 | [volume-04/chapter-44.md](volume-04/chapter-44.md) | 显著性水平 alpha | 已起草 |
-| 45 | [volume-04/chapter-45.md](volume-04/chapter-45.md) | p值 | 已起草 |
-| 46 | [volume-04/chapter-46.md](volume-04/chapter-46.md) | 拒绝域 | 已起草 |
-| 47 | [volume-04/chapter-47.md](volume-04/chapter-47.md) | I类错误 | 已起草 |
-| 48 | [volume-04/chapter-48.md](volume-04/chapter-48.md) | II类错误 | 已起草 |
-| 49 | [volume-04/chapter-49.md](volume-04/chapter-49.md) | 统计功效 Power | 已起草 |
-| 50 | [volume-04/chapter-50.md](volume-04/chapter-50.md) | 行为决策框架 | 已起草 |
-| 51 | [volume-04/chapter-51.md](volume-04/chapter-51.md) | 样本量确定 | 已起草 |
+| 章节 | 题目 | 阅读提示 |
+|------|------|----------|
+| 35 | [中奖机会不能为负](volume-04/chapter-35.md) | 概率推理需要最低一致规则。 |
+| 36 | [同一化验单，不同担心](volume-04/chapter-36.md) | 概率可表示信念程度。 |
+| 37 | [不是问怕不怕](volume-04/chapter-37.md) | 概率可被看作世界中的长期性质。 |
+| 38 | [几百次练习的记录](volume-04/chapter-38.md) | 概率是重复序列中的比例。 |
+| 39 | [归入哪一类](volume-04/chapter-39.md) | 概率附着于集合，单个事件归类会影响数值。 |
+| 40 | [若真是它造成的](volume-04/chapter-40.md) | 给定假设后看数据出现的可能。 |
+| 41 | [从粉末反推](volume-04/chapter-41.md) | 从数据反推假设需要额外信息。 |
+| 42 | [先保护默认](volume-04/chapter-42.md) | 默认受保护的假设与错误代价有关。 |
+| 43 | [需要明确的对手](volume-04/chapter-43.md) | 与默认判断对立的行动方向。 |
+| 44 | [流程里的那根线](volume-04/chapter-44.md) | 阈值控制长期弃真比例。 |
+| 45 | [这么怪有多常见](volume-04/chapter-45.md) | p值是给定默认时数据极端性的概率。 |
+| 46 | [事先画好的线](volume-04/chapter-46.md) | 拒绝规则由事前阈值确定。 |
+| 47 | [退回安全批次](volume-04/chapter-47.md) | 真默认被错误拒绝。 |
+| 48 | [放行了变质食品](volume-04/chapter-48.md) | 假默认未被拒绝。 |
+| 49 | [好苗子没被看见](volume-04/chapter-49.md) | 当差异真实存在时发现它的能力。 |
+| 50 | [该做什么，不是该信什么](volume-04/chapter-50.md) | 频率主义检验服务长期行动决策。 |
+| 51 | [十个人不够](volume-04/chapter-51.md) | 样本量应由效应、噪声和目标功效预先决定。 |
 
 ### 第五分册：证据、信念与行动分开（52-66）
 贝叶斯推断与似然学派。
 
-| 章节 | 文件 | 概念 | 状态 |
-|------|------|------|------|
-| 52 | [volume-05/chapter-52.md](volume-05/chapter-52.md) | 先验概率 | 已起草 |
-| 53 | [volume-05/chapter-53.md](volume-05/chapter-53.md) | 似然 P(D\|H) | 已起草 |
-| 54 | [volume-05/chapter-54.md](volume-05/chapter-54.md) | 后验概率 | 已起草 |
-| 55 | [volume-05/chapter-55.md](volume-05/chapter-55.md) | 贝叶斯定理 | 已起草 |
-| 56 | [volume-05/chapter-56.md](volume-05/chapter-56.md) | 似然原则 | 已起草 |
-| 57 | [volume-05/chapter-57.md](volume-05/chapter-57.md) | 可信度区间 | 已起草 |
-| 58 | [volume-05/chapter-58.md](volume-05/chapter-58.md) | 贝叶斯因子 | 已起草 |
-| 59 | [volume-05/chapter-59.md](volume-05/chapter-59.md) | 概率密度 vs 概率 | 已起草 |
-| 60 | [volume-05/chapter-60.md](volume-05/chapter-60.md) | 无信息先验问题 | 已起草 |
-| 61 | [volume-05/chapter-61.md](volume-05/chapter-61.md) | 似然比 | 已起草 |
-| 62 | [volume-05/chapter-62.md](volume-05/chapter-62.md) | 似然定律 | 已起草 |
-| 63 | [volume-05/chapter-63.md](volume-05/chapter-63.md) | 似然区间 | 已起草 |
-| 64 | [volume-05/chapter-64.md](volume-64/chapter-64.md) | 误导性证据概率 | 已起草 |
-| 65 | [volume-05/chapter-65.md](volume-05/chapter-65.md) | 弱证据概率 | 已起草 |
-| 66 | [volume-05/chapter-66.md](volume-05/chapter-66.md) | 证据 != 决策 != 信念 | 已起草 |
+| 章节 | 题目 | 阅读提示 |
+|------|------|----------|
+| 52 | [起点不同](volume-05/chapter-52.md) | 观察前的信念会进入推断。 |
+| 53 | [读数更像谁](volume-05/chapter-53.md) | 数据在各假设下的相合程度。 |
+| 54 | [看完以后相信多少](volume-05/chapter-54.md) | 观察后信念更新。 |
+| 55 | [三格信息合起来](volume-05/chapter-55.md) | 后验由先验与似然共同决定。 |
+| 56 | [计划不同，成绩一样](volume-05/chapter-56.md) | 证据信息包含在似然中，与未发生计划无关。 |
+| 57 | [有很大机会落在这里](volume-05/chapter-57.md) | 后验分布中的概率区间。 |
+| 58 | [相对优势](volume-05/chapter-58.md) | 数据对两个假设的相对支持。 |
+| 59 | [单点没有面积](volume-05/chapter-59.md) | 连续变量单点概率为 0，区间才有概率。 |
+| 60 | [换单位就变了](volume-05/chapter-60.md) | 不存在绝对无信息先验。 |
+| 61 | [脚印偏向谁](volume-05/chapter-61.md) | 两个假设对同一数据的相对预测能力。 |
+| 62 | [像谁预先看见的样子](volume-05/chapter-62.md) | 数据支持更好预测它的假设。 |
+| 63 | [足够接近的范围](volume-05/chapter-63.md) | 区间可按相对似然强度划定。 |
+| 64 | [强支持也会错](volume-05/chapter-64.md) | 强证据仍可能误导，但概率受限。 |
+| 65 | [灰区里的结果](volume-05/chapter-65.md) | 弱证据会随样本增大而减少。 |
+| 66 | [三张纸](volume-05/chapter-66.md) | 证据、信念、行动是三件事。 |
 
----
+### 附章
 
-## 叙事连续性说明
+| 章节 | 题目 | 阅读提示 |
+|------|------|----------|
+| 67 | [测得越多，红灯越多](supplementary/chapter-67.md) | 检验次数会膨胀总误判概率；测得多不等于知道得多。 |
 
-- **共享场景**：一座普通城市中的研究院、医院、工厂、学校、法院、竞赛队、食品检测站和社区服务中心。地点保持日常，不使用过度文学化地名。
-- **共享人物**：几组反复出现但不承担说教功能的人物，包括研究助理、急诊医生、质检员、裁判、项目负责人、学生社团、产品测试员和陪审员。
-- **共享限制**：人物必须在信息有限、成本真实、他人会受影响的场景中行动；结尾不给"顿悟式金句"，而用选择结果让读者回看前文。
-
-## 写作规范
-
-- 每章约 1000 字（故事正文约 700-800 字 + 讲解约 200-300 字）
-- 正文不出现概念名或学科术语
-- 解释段明确指出概念、常见误解、与前驱概念的关系
-- 参照作品只借冲突结构，不逐场复述
 
