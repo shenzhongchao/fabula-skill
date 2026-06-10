@@ -1,8 +1,7 @@
 site_name: 我们凭什么相信
 site_description: 用寓言讲述证据、推理与判断
 site_author: Fabula Skill
-# 请替换为你的 GitHub Pages 实际地址，例如 https://username.github.io/fabula-skill/
-site_url: ""
+site_url: "https://shenzhongchao.github.io/fabula-skill/"
 
 docs_dir: cases/science-fable/drafts
 
