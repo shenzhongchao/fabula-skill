@@ -9,23 +9,25 @@ docs_dir: cases/science-fable/drafts
 theme:
   name: material
   language: zh
+  font:
+    text: Noto Serif SC
+    code: Roboto Mono
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: brown
+      accent: amber
       toggle:
         icon: material/brightness-7
         name: 切换至深色模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: brown
+      accent: amber
       toggle:
         icon: material/brightness-4
         name: 切换至浅色模式
   features:
-    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top
@@ -39,6 +41,9 @@ plugins:
         - zh
         - en
   - awesome-pages
+
+extra_css:
+  - stylesheets/extra.css
 
 extra:
   social:
